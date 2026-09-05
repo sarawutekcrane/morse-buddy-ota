@@ -1,0 +1,7 @@
+MBOTA1
+version=1.0.0
+build=1
+hardware=MORSE_BUDDY_ESP32_114_V1
+size=1128672
+sha256=dde5cf85585a3d444492fa1b749b05b1b6fa2bede54cea1fa169a1e80b54f548
+path=/morse-buddy-ota/releases/1.0.0/firmware-1.0.0-build1.bin
